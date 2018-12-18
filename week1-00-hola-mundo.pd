@@ -1,0 +1,4 @@
+#N canvas 721 318 450 300 10;
+#X msg 60 46 hola mundo;
+#X obj 89 119 print;
+#X connect 0 0 1 0;
